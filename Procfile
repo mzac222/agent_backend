@@ -1,1 +1,1 @@
-web: gunicorn agent_backend:app
+web: gunicorn app:app
